@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Faiqa Rizwan 👋
 
-<!--
-**faiqarizwan95-maker/faiqarizwan95-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Scientist | AI Enthusiast | Learning Web Development
 
-Here are some ideas to get you started:
+## About Me
+- Currently learning Data Science and Artificial Intelligence
+- Also exploring Frontend Development (HTML, CSS, JavaScript)
+- Passionate about solving real-world problems using data and technology
+- Looking for opportunities to grow in Data Science and AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- **Data Science & AI:** Python, Machine Learning, Data Analysis
+- **Web Development:** HTML, CSS, JavaScript
+- Tools: Jupyter Notebook, Git & GitHub
+
+## Projects
+- **[Expense Tracker](https://github.com/faiqarizwan95-maker/expense-tracker)**  
+  A clean Expense Tracker web app with category, date, and LocalStorage.  
+  **Live Demo:** [Click here](https://faiqarizwan95-maker.github.io/expense-tracker/)
+
+## Connect with me
+- GitHub: [faiqarizwan95-maker](https://github.com/faiqarizwan95-maker)
